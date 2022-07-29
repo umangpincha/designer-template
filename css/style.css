@@ -455,11 +455,12 @@ html {
 }
 
 .nav-last {
+  /* border: 2px solid green; */
   position: absolute;
   width: 100%;
   top: 366%;
   display: flex;
-  margin-top:1%;
+  margin-top:5%;
   text-align: center;
 }
 
